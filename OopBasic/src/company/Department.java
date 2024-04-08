@@ -1,4 +1,4 @@
-package campany;
+package company;
 
 
 
